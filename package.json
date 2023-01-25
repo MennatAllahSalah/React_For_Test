@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "react-bootstrap": "^2.7.0",
+    "sass": "^1.57.1",
+    "scss": "^0.2.4"
+  }
+}
